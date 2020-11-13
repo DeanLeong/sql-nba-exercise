@@ -19,7 +19,7 @@ In order to copy the CSV to the database.
 
 ### Part 3
 
-Figure out the appropriate SQL commands to find out the following, and keep track of them in the file called `sql_commands.txt`
+Figure out the appropriate SQL commands to find out the following, and keep track of them in the file called `sql_commands.sql`
 
 1. All columns for all players from the New York Knicks (NYK)
 2. All columns for all players from the Indiana Packers (IND) who are under 26 years old
